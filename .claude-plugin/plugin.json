@@ -1,0 +1,13 @@
+{
+  "name": "kai",
+  "displayName": "Kai Personal Claude",
+  "description": "Personal daily-driver skills: /kai:maintainer (issue-to-PR pipeline with review feedback loop) and /kai:commit (granular conventional commits).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tam Nhu Tran",
+    "email": "kaitran.ntt@gmail.com"
+  },
+  "repository": "https://github.com/kaitranntt/kai-personal-claude",
+  "license": "MIT",
+  "keywords": ["maintainer", "workflow", "github", "conventional-commits", "worktree"]
+}

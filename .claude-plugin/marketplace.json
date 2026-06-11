@@ -1,0 +1,15 @@
+{
+  "name": "kai-personal-claude",
+  "description": "Self-hosted marketplace for the kai plugin: personal maintainer and commit workflow skills.",
+  "owner": {
+    "name": "Tam Nhu Tran",
+    "email": "kaitran.ntt@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "kai",
+      "source": "./",
+      "description": "Personal daily-driver skills: /kai:maintainer and /kai:commit."
+    }
+  ]
+}
