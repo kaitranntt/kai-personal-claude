@@ -2,7 +2,7 @@
   "name": "kai",
   "displayName": "Kai Personal Claude",
   "description": "Personal daily-driver skills: /kai:maintainer (issue-to-PR pipeline with review feedback loop) and /kai:commit (granular conventional commits).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Tam Nhu Tran",
     "email": "kaitran.ntt@gmail.com"
