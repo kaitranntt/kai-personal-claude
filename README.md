@@ -19,7 +19,7 @@ Personal Claude Code plugin shipping my daily-driver skills under the `kai:` nam
 ## Prerequisites
 
 - `gh` CLI, authenticated.
-- [ClaudeKit](https://claudekit.dev) installed. `/kai:maintainer` is an orchestrator: it
+- [ClaudeKit](https://claudekit.cc) installed. `/kai:maintainer` is an orchestrator: it
   routes implementation work to ClaudeKit skills (`/fix`, `/cook`, `/ck:plan`,
   `/brainstorm`, `/debug`, `/worktree`, `/preview`, `/code-review`, `/git`, `/team`).
   `/kai:commit` works standalone.
