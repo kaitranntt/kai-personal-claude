@@ -1,5 +1,5 @@
 ---
-name: kai:maintainer
+name: maintainer
 description: "Daily maintainer workflow -- triage, GitHub issue, worktree, fix, PR, review feedback loop. BUG/FEATURE auto-classify."
 ---
 

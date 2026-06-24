@@ -1,5 +1,5 @@
 ---
-name: kai:commit
+name: commit
 description: "Analyze git changes, group related files, and create granular conventional commits"
 argument-hint: "[message context]"
 metadata:
